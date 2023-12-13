@@ -1,0 +1,14 @@
+﻿'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Users\Yakoub\source\repos\Recursion puzzles 2\Debug\Recursion puzzles 2.exe'. Symbols loaded.
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0xe24 has exited with code 0 (0x0).
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Recursion puzzles 2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x26d8 has exited with code 0 (0x0).
+The thread 0xe18 has exited with code 0 (0x0).
+The program '[13432] Recursion puzzles 2.exe' has exited with code 0 (0x0).

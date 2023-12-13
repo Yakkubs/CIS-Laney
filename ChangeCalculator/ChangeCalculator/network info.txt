@@ -1,0 +1,20 @@
+Connection-specific DNS Suffix: hsd1.ca.comcast.net
+Description: Realtek PCIe GbE Family Controller #2
+Physical Address: ‎30-9C-23-62-3D-A1
+DHCP Enabled: Yes
+IPv4 Address: 10.0.0.61
+IPv4 Subnet Mask: 255.255.255.0
+Lease Obtained: Thursday, July 22, 2021 11:39:13 PM
+Lease Expires: Saturday, July 24, 2021 11:39:12 PM
+IPv4 Default Gateway: 10.0.0.1
+IPv4 DHCP Server: 10.0.0.1
+IPv4 DNS Server: 8.8.8.8
+IPv4 WINS Server: 
+NetBIOS over Tcpip Enabled: Yes
+IPv6 Address: 2601:643:8200:1d80::a5d4
+Lease Obtained: Thursday, July 22, 2021 11:39:14 PM
+Lease Expires: Monday, July 26, 2021 2:55:50 AM, 2601:643:8200:1d80:699c:11c0:95aa:635
+Temporary IPv6 Address: 2601:643:8200:1d80:a589:e39e:1c06:2b9a
+Link-local IPv6 Address: fe80::699c:11c0:95aa:635%13
+IPv6 Default Gateway: fe80::56a6:5cff:fef9:73b3%13
+IPv6 DNS Servers: 2001:558:feed::1, 2001:558:feed::2, 2001:558:feed::1, 2001:558:feed::2

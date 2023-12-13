@@ -1,0 +1,14 @@
+﻿'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Users\Yakoub\source\repos\Recursion Puzzles 5\Debug\Recursion Puzzles 5.exe'. Symbols loaded.
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x5dc4 has exited with code 0 (0x0).
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Recursion Puzzles 5.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x34ec has exited with code 0 (0x0).
+The thread 0x3c48 has exited with code 0 (0x0).
+The program '[22588] Recursion Puzzles 5.exe' has exited with code 0 (0x0).

@@ -1,0 +1,13 @@
+Height = 187
+Weight = 236
+Age = 23
+Sex = M
+Activity = 3
+Bench Press Pr = 162
+Squat Pr = 275
+Deadlift Pr = 375
+ 
+Calories: 
+ 
+5/23/2022 3000
+5/23/2022 2333
